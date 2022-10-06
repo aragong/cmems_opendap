@@ -4,7 +4,7 @@ Simply notebook to access any dataset from CMEMS Opendap service.
 
 Credential in CMEMS are needed (user/password)
 
-# Install conda environment
+## :house: Local installation
 
 
 0 - Install miniconda from [here](https://docs.conda.io/en/main/miniconda.html)
